@@ -1,0 +1,2 @@
+Liczba ci¹gów arytmetycznych: 44
+Najwiêksza ró¿nica: 246849
